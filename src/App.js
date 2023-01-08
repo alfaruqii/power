@@ -7,6 +7,7 @@ import { Suspense } from "react";
 import { Route, Routes } from "react-router-dom";
 
 function App() {
+  console.log("test")
   return (
     <Suspense>
       <div className="font-david">
