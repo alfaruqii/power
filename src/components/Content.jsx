@@ -41,7 +41,6 @@ const Content = ({ locate }) => {
               <div className="grid grid-cols gap-3 indent-5 lg:text-lg">
                 {
                   locate[2].map((par, i) => {
-                    // console.log(par)
                     return <p key={i} className={
                       Object.keys(par).includes("paragraphOne") ? "indent-0" : ""
                     }>
@@ -54,9 +53,6 @@ const Content = ({ locate }) => {
                     {
                       locate[3].map((part, i) => {
                         const paragraph = Object.keys(part)[0].includes("paragraph")
-                        // console.log(paragraph)
-                        // console.log(part[Object.keys(part)][1])
-                        // paragraph ? <p key={i}>{part[Object.keys(part)]}</p> : <p key={i}>{part[Object.keys(part)]}</p>
                         if (paragraph) return <p className key={i}>{part[Object.keys(part)]}</p>
                         return <div key={i} className="flex justify-center items-center"><p className="">{part[Object.keys(part)][0]}</p><p className="ml-[-15px]">{part[Object.keys(part)][1]}</p></div>
                       })}
