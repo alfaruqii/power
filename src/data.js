@@ -113,7 +113,7 @@ const obedienceOne = [
       "Selain itu, ada kalanya mengemukakan cara kerja proyek-proyek Anda terbukti berguna. Segalanya tergantung dari selera penonton Anda dan zaman ketika Anda beroperasi. P.T. Barnum sadar bahwa penontonnya ingin merasa terlibat dalam pertunjukkan-pertunjukkannya, dan bahwa memahami trik-triknya membuat mereka gembira. Sebagian alasannya mungkin karena membongkar kepalsuan orang-orang yang merahasiakan sumber kekuatan mereka dari massa secara implisit menarik bagi jiwa penduduk Amerika yang demokratis. Publik juga menghargai kejenakaan dan kejujuran Barnum. Barnum memanfaatkan hal ini secara ekstrem dengan mempublikasikan tipuan-tipuannya sendiri dalam otobiografinya yang populer, yang ditulis ketika karirnya berada pada puncaknya.",
   },
   {
-    pic: "https://ik.imagekit.io/ubr0jv4pe/power/PhineasTaylorBarnum.jpg?updatedAt=1688196059370",
+    pic: "https://ik.imagekit.io/ubr0jv4pe/power/TheHandcuffKing.jpg?updatedAt=1688198126249",
     alt: "Phineas Taylor Barnum",
   },
   {
